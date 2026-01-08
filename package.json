@@ -1,9 +1,9 @@
 {
-  "name": "trouveladependance",
+  "name": "trouveleproduit",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://cparfaitpro.github.io/trouveladependance",
+  "homepage": "https://unisciteangers.github.io/trouveleproduit",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
