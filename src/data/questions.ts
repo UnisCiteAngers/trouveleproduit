@@ -17,7 +17,7 @@ export const questions: Question[] = [
       options: [
         "Alcool",
         "Tabac",
-        "Canabis",
+        "Cannabis",
         "Cocaïne",
         "Sucre",
         "Café",
@@ -36,7 +36,7 @@ export const questions: Question[] = [
         options: [
           "Alcool",
           "Tabac",
-          "Canabis",
+          "Cannabis",
           "Cocaïne",
           "Sucre",
           "Café",
@@ -55,7 +55,7 @@ export const questions: Question[] = [
         options: [
           "Alcool",
           "Tabac",
-          "Canabis",
+          "Cannabis",
           "Cocaïne",
           "Sucre",
           "Café",
@@ -74,7 +74,7 @@ export const questions: Question[] = [
         options: [
           "Alcool",
           "Tabac",
-          "Canabis",
+          "Cannabis",
           "Cocaïne",
           "Sucre",
           "Café",
@@ -93,7 +93,7 @@ export const questions: Question[] = [
         options: [
           "Alcool",
           "Tabac",
-          "Canabis",
+          "Cannabis",
           "Cocaïne",
           "Sucre",
           "Café",
@@ -112,7 +112,7 @@ export const questions: Question[] = [
         options: [
           "Alcool",
           "Tabac",
-          "Canabis",
+          "Cannabis",
           "Cocaïne",
           "Sucre",
           "Café",
@@ -131,7 +131,7 @@ export const questions: Question[] = [
         options: [
           "Alcool",
           "Tabac",
-          "Canabis",
+          "Cannabis",
           "Cocaïne",
           "Sucre",
           "Café",
@@ -150,7 +150,7 @@ export const questions: Question[] = [
         options: [
           "Alcool",
           "Tabac",
-          "Canabis",
+          "Cannabis",
           "Cocaïne",
           "Sucre",
           "Café",
@@ -169,7 +169,7 @@ export const questions: Question[] = [
         options: [
           "Alcool",
           "Tabac",
-          "Canabis",
+          "Cannabis",
           "Cocaïne",
           "Sucre",
           "Café",
@@ -188,7 +188,7 @@ export const questions: Question[] = [
         options: [
           "Alcool",
           "Tabac",
-          "Canabis",
+          "Cannabis",
           "Cocaïne",
           "Sucre",
           "Café",
@@ -206,7 +206,7 @@ export const questions: Question[] = [
         options: [
           "Alcool",
           "Tabac",
-          "Canabis",
+          "Cannabis",
           "Cocaïne",
           "Sucre",
           "Café",
@@ -225,7 +225,7 @@ export const questions: Question[] = [
         options: [
           "Alcool",
           "Tabac",
-          "Canabis",
+          "Cannabis",
           "Cocaïne",
           "Sucre",
           "Café",
