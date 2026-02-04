@@ -50,7 +50,7 @@ export default function Game() {
 
   const question = questions[currentQuestion];
   if (!question) {
-    navigate('/trouveladependance/fin');
+    navigate('/trouveleproduit/fin');
     return null;
   }
 
@@ -124,7 +124,7 @@ const checkDocBonus = (): boolean => {
   const goNext = () => {
     const next = currentQuestion + 1;
     if (next >= questions.length) {
-      navigate('/trouveladependance/fin');
+      navigate('/trouveleproduit/fin');
     } else {
       setCurrentQuestion(next);
       // Reset

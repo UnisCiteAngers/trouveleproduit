@@ -23,7 +23,7 @@ export default function Home() {
     setTeam(teamName);
     setIsTimerEnabled(!disableTimer); // ← Activer si NON coché
     // Redirige vers le jeu
-    navigate('/trouveladependance/game');
+    navigate('/trouveleproduit/game');
   };
 
   return (
